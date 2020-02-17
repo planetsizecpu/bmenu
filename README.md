@@ -15,10 +15,17 @@ a first line with a option number plus a comma plus the option title a second li
 No white lines are allowed or will fail.
 
 EXAMPLE:
+
 MAIN MENU OPTIONS
+
 1,PROCESS STATUS
+
 ps -ef | more
+
 2,PRINTER STATUS
+
 lpstat ; read x
+
 3,NET OPTIONS
+
 menu submenu1
