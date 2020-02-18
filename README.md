@@ -10,7 +10,8 @@ TITLE HEADER LINE (must be the first line)
 
 any number of line pairs with:
 
-a first line with a option number plus a comma plus the option title a second line with a unix command line or the "menu" word followed with a menu file-name (.m extension not needed)
+A first line with a option number plus a comma plus the option title. 
+A second line with a unix command line or the "menu" word followed with a menu file-name (.m extension not needed)
 
 No white lines are allowed or will fail.
 
