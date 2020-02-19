@@ -29,4 +29,4 @@ lpstat ; read x
 
 3,NET OPTIONS
 
-menu submenu1
+menu submenu
