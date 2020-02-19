@@ -1,6 +1,6 @@
 # bmenu
 
-Menu manager for Linux/AIX shell, this is a shell script I made in 1992 when Unix(R) systems dominated the world, it is fully compatible with Sculptor® 4gl 1.2 menu system files, but now it is no longer maintained.
+Basical menu manager for Linux/AIX shell, this is a shell script I made in 1992 when Unix(R) systems dominated the world, it is fully compatible with Sculptor® 4gl 1.2 menu system files, but now it is no longer maintained.
 
 By default it opens the menu file "menu.m"
 
