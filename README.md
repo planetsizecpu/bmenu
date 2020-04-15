@@ -15,7 +15,7 @@ A second line with a Unix command line or the "menu" word followed with a menu f
 
 No white lines are allowed or will fail.
 
-EXAMPLE:
+*** EXAMPLE ***
 
 MAIN MENU OPTIONS
 
