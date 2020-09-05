@@ -1,6 +1,6 @@
 # bmenu
 
-Basic menu manager for Linux/AIX shell, this is a shell script I wrote in 1992 when Unix(R) systems dominated the world, it is designed to work with old MPD Sculptor® 4gl 1.2 menu system files, it is no longer maintained.
+Basic menu manager for Linux/AIX shell, this is a shell script I wrote in 1992 when Unix(R) systems ruled the world, it is designed to work with old MPD Sculptor® 4gl 1.2 menu system files, it is no longer maintained.
 
 By default it opens the menu file "menu.m"
 
